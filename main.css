@@ -1,0 +1,47 @@
+body {
+    font-family: Open Sans, sans-serif;
+    background-color: #212f45;
+    color: white;
+}
+
+.t1 {
+    padding-top: 180px;
+    padding-bottom: 0px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.t2 {
+    padding-top: 0px;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: "IBM Plex Serif"
+
+}
+
+header {
+    text-align: center;
+    background-color: #144552;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+
+}
+
+
+nav {
+    background-color: #1b3a4b;
+    padding: 10px 5px;
+    text-align: center;
+
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0px 20px;
+    font-weight: bold;
+}
