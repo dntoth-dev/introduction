@@ -14,6 +14,7 @@ body {
     color: white;
     font-family: "IBM Plex Serif", "serif";
     margin-bottom: 1%
+    text-decoration: underline;
 
 }
 
@@ -23,6 +24,16 @@ body {
     font-size: 18px;
     color: #ffffff;
     font-family: "Open Sans", "sans-serif";
+    font-weight: bold;
+
+}
+
+.pixl{
+    margin-top: 0%;
+    padding-top: 0px;
+    font-size: 30px;
+    color: #fdf6e3;
+    font-family: "Pixelify Sans";
     font-weight: bold;
 
 }
@@ -54,7 +65,7 @@ nav a {
 
 .paratitle {
     font-weight: bold;
-    
+
 }
 
 section {
