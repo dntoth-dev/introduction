@@ -30,16 +30,6 @@ body {
 
 }
 
-.pixl{
-    margin-top: 0%;
-    padding-top: 0px;
-    font-size: 20px;
-    color: #fdf6e3;
-    font-family: "Pixelify Sans";
-    font-weight: bold;
-
-}
-
 header {
     text-align: center;
     background-color: #144552;
@@ -65,14 +55,18 @@ nav a {
     font-weight: bold;
 }
 
-.paratitle {
+section{
+    font-size: 20px;
+    padding-top: 20px;
     font-weight: bold;
-
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
-section {
+section p {
     font-size: 18px;
-    padding-top: 20px;
-    text-align: center;
     font-weight: normal;
+    text-align: justify;
+    padding-
 }
