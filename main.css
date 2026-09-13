@@ -60,13 +60,30 @@ section{
     padding-top: 20px;
     font-weight: bold;
     text-align: center;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 400px;
+    padding-right: 400px;
 }
 
 section p {
     font-size: 18px;
     font-weight: normal;
     text-align: justify;
-    padding-
+}
+
+footer {
+    padding-bottom: 2.5px;
+    padding-top: 2.5px;
+    margin-bottom: 0px;
+    margin-top: 250px;
+    text-align: center;
+    background-color: #144552;
+
+}
+footer h3 {
+    font-size: 16px;
+    margin-bottom: 0%;
+}
+
+footer p {
+    margin-top: 0%;
 }
