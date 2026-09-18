@@ -86,3 +86,23 @@ footer h3 {
     margin: 0px;
 }
 
+.section-about {
+    max-width: 1000px;
+}
+
+.p-about {
+    max-width: 1000px;
+    text-align: justify;
+
+}
+
+section a {
+    color: white;
+    text-decoration: None;
+    background-color: #006466;
+    padding: 10px;
+    margin: 40px auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
